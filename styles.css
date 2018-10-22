@@ -1,0 +1,14 @@
+.hector-section {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
